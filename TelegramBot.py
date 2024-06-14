@@ -12,7 +12,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder, ReplyKeyboardBuilder
 logging.basicConfig(level=logging.INFO)
 
 # Замените "YOUR_BOT_TOKEN" на токен, который вы получили от BotFather
-API_TOKEN = '7461130124:AAH-LsHJ2ONJY3PcI8F7cfxtQwboD7A11ko'
+API_TOKEN = ''
 # Имя БД
 DB_NAME = 'quiz_bot.db'
 # Имя файла с вопросами квиза
